@@ -8,5 +8,4 @@
         MsgBox("Hello from the MainModule!")
     End Sub
 
-
 End Module
